@@ -1,0 +1,33 @@
+.img_sec2 {
+  background: url('/img/illustrat.png') no-repeat;
+  background-size: 80% 100%;
+  background-position: 100% 100%;
+  color: green;
+  height: 100vh;
+
+  }    
+  .play {
+
+    display: flex;
+    align-items: center;
+    width: 557.4px;
+    height: 220.2px; 
+    position: relative;
+    left: 50px;
+    top: 30%;
+    margin-left: 50px;
+  }
+
+  .play_text {
+    width: 557.4px;
+    height: 220.2px;  
+    font-family: Raleway; 
+    font-size: 15px; 
+    font-style: normal; 
+    font-stretch: normal;
+    line-height: 1.76; 
+    letter-spacing: normal;  
+    text-align: left;
+    color: #000000;
+    padding: 50px;
+  }

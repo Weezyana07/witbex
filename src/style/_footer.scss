@@ -1,0 +1,21 @@
+.footer {
+  background:  url('/img/BG2.png')no-repeat;
+  color: #fff;
+}
+
+.footer_img {
+  display: flex;
+  align-items: center;
+  img {
+    padding: 0% 10px
+  }
+}
+
+.footer_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-items: center;
+  align-self: center;
+  padding: 0% 20px
+}

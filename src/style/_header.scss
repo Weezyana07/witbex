@@ -1,0 +1,42 @@
+.header {
+  display: flex;
+  height: 60px;
+  margin-top: 3%;
+  //padding: 15px;
+  justify-content: space-between;
+  align-items: center;
+
+  li {
+    display: inline;
+    text-decoration: none;
+    padding: 0px 20px;
+
+    a {
+      text-decoration: none;
+    }
+  }
+
+}
+
+.btn {
+  background-color: #ff0077;
+  border: none;
+  border-radius: 50px 50px 50px 50px;
+  color: white;
+  padding: 10px;
+  margin: 0px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+}
+
+.btn .icon {
+background: url('/img/circle.png') no-repeat;
+  background-color: white;
+  border-radius: 50%;
+  float: left;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px
+}    

@@ -1,0 +1,19 @@
+.alpha{
+  font-weight: bold;
+  padding: .5rem 1rem;
+}
+
+.nav.flex-column .nav-link {
+  display: block;
+  padding: .5rem 1rem;
+  font-size: 17px !important;
+  color: black !important;
+  font-weight: 100;
+  text-decoration: none
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px
+}
